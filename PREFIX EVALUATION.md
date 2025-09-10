@@ -55,6 +55,7 @@ print("Evaluation result :", evaluate(test_expression))
 ```
 ### OUTPUT
 
+<img width="825" height="260" alt="Screenshot 2025-09-10 082432" src="https://github.com/user-attachments/assets/8bdd1b38-8513-4aaf-b6eb-738d1af5d5ee" />
 
 ### RESULT
 
